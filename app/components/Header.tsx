@@ -24,7 +24,7 @@ export default function Header() {
                     { sans`OM` }
                 </span>
             </div>
-            <h1 className={`text-4xl md:text-6xl text-[--yellow] mt-10 ${pop}`} ref={el}></h1>
+            <h1 className={`text-3xl md:text-6xl text-[--yellow] mt-10 ${pop}`} ref={el}></h1>
         </div>
     )
 }

@@ -6,7 +6,7 @@ export interface LinkBarProps  {
 
 export default function SocialBar({ children } : LinkBarProps)  {
     return (
-        <div className="w-1/4 h-fit flex flex-row items-center justify-center text-4xl my-5 space-x-7">
+        <div className="w-1/4 h-fit flex flex-row items-center justify-center text-3xl md:text-4xl my-5 space-x-7">
             { children }
         </div>
     )
