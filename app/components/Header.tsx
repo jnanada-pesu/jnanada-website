@@ -17,14 +17,14 @@ export default function Header() {
         })
     }, []);
     return (
-        <div className="mt-10 w-full relative flex flex-col items-center">
+        <div className="mt-16 w-full relative flex flex-col items-center">
             <div className="relative -animate-bounce-custom">
                 <img src="ring.png" alt="" className='animate-spin-custom md:w-[20rem] md:h-[20rem] h-60 w-60' />
                 <span className={`absolute align-middle text-[--yellow] text-7xl md:text-8xl top-[43%] left-[36%] ${nsd}`}>
                     { sans`OM` }
                 </span>
             </div>
-            <h1 className={`text-5xl md:text-6xl text-[--yellow] mt-10 ${pop}`} ref={el}></h1>
+            <h1 className={`text-4xl md:text-6xl text-[--yellow] mt-10 ${pop}`} ref={el}></h1>
         </div>
     )
 }
