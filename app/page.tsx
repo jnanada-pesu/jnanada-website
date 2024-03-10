@@ -15,7 +15,7 @@ export default function App() {
                 <SocialLink href='http://www.instagram.com/jnanada.pesu' logo='nf-md-instagram' />
                 <SocialLink href='http://www.linkedin.com/company/jnanada-pesu' logo='nf-md-linkedin' />
                 <SocialLink href='https://chat.whatsapp.com/K5n3u3HjKJM3RP8DU2bP7Q' logo='nf-md-whatsapp' />
-                <SocialLink href='https://discord.gg/AaR922tG' logo='nf-md-discord' />
+                <SocialLink href='https://discord.gg/2wGm6szGhH' logo='nf-md-discord' />
                 <SocialLink href='https://clubs.pes.edu/jnanada/' logo='nf-md-linkedin' />
                 <SocialLink href='https://youtube.com/@JnanadaPESU' logo='nf-md-youtube' />
             </SocialBar>
